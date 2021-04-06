@@ -1,4 +1,4 @@
-npm run watch - vizualizam fișierele în timpul dezvoltării
+npm run watch - vizualizam fișierele în timpul 'dezvoltării' proiectului
 npm run build - compilam fișiere după dezvoltare
 src - folder cu fișiere pentru dezvoltator cu cod, compilat în folderul dist
 dist - fișiere compilate pentru proiecte
